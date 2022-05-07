@@ -16,6 +16,8 @@ https://user-images.githubusercontent.com/16290220/166952619-f8e35ce9-65ee-46b7-
 
 https://user-images.githubusercontent.com/16290220/167262390-cb1debe3-9d73-4c06-b754-d6842b9881cc.mov
 
+https://user-images.githubusercontent.com/16290220/167263532-79309575-088f-4b4a-8901-101b4e2bbfe7.mov
+
 # demo
 - box1
   - 立方体を作ってライトで色をつける
