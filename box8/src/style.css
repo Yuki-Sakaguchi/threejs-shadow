@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+canvas {
+  vertical-align: bottom;
+  background-color: black;
+}
+
+.title {
+  position: fixed;
+  z-index: 2;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Comfortaa', cursive;
+  transform: translateX(0);
+  opacity: 0;
+  top: -6%;
+  color: #acebeb;
+  transition: transform 0.8s, opacity 0.8s;
+}
+
+.title.active {
+  transform: translateX(7%);
+  opacity: 1;
+}
